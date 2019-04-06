@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/mi_baseline">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Type d'eau *"
+            android:textColor="@color/colorRedDark"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/mRadioGrouptypeEau"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <RadioButton
+                android:id="@+id/radioButtonEauPotable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Eau potable"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonEauUsee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Eau usée"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonEauSouterraine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Eau souterraine"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonEauSource"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Eau source"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonRiviere"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="rivière"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonBarrage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Barrage"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonMer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mer"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Impacté *"
+            android:textColor="@color/colorRedDark"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/mRadioGroupImpacte"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <RadioButton
+                android:id="@+id/radioButtonHabitant"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Habitant"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonEcole"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ecole"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonAgricole"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Agricole"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonEspacePublic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Espace public"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+        </RadioGroup>
+
+
+    </LinearLayout>
+</ScrollView>

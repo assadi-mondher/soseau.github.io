@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/mi_baseline">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Urgence"
+            android:textColor="@color/colorRedDark"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/mRadioGroupUrgence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <RadioButton
+                android:id="@+id/radioButtonHaute"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Haute"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonMouyenne"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mouyenne"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonBasse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Basse"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Nature de problème"
+            android:textColor="@color/colorRedDark"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/mRadioGroupNatureProbleme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <RadioButton
+                android:id="@+id/radioButtonIncident"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Incident"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonProbleme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Problème"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonCrise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Crise"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonCatastrophe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Catastrophe"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+        </RadioGroup>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Etat"
+            android:textColor="@color/colorRedDark"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/mRadioGroupEtat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <RadioButton
+                android:id="@+id/radioButtonNouveauProbleme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nouveau problème"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonAncienProbleme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ancien problème"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonEnCoursDeResolution"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="En cours de résolution"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+
+            <RadioButton
+                android:id="@+id/radioButtonResolu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Résolu"
+                android:textColor="@color/white"
+                android:theme="@style/MyCheckBox" />
+        </RadioGroup>
+
+    </LinearLayout>
+</ScrollView>

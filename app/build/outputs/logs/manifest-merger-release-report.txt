@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.2.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/core-0.9.2.1.aar/22bab69a7d540f317de038f9da271a4e/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/18d7f25783765cd3ca53a1d5f11d2282/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/ab0115451ff546b8d821384525f07cf9/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.nguyenhoanglam:ProgressLayout:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/ProgressLayout-1.0.1.aar/d0a243385c699e24bb469db9b414f7d2/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/33873bae896d539de2e058de5a75c4d4/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:16:1-29:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/5374d36f642ba455b1c2619067bc1dde/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.joaquimley:faboptions:1.0.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/faboptions-1.0.2.aar/77252dbfeaca4735a85479f3ce06c8b5/AndroidManifest.xml:17:1-29:12
+MERGED from [com.github.chrisbanes:PhotoView:1.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/PhotoView-1.3.0.aar/70ced31d400bc14e34186a47e7bca484/AndroidManifest.xml:2:1-12:12
+MERGED from [com.heinrichreimersoftware:material-intro:1.6] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.aar/4936bafd0adb53dddb75d04e0ac21fe4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.k0shk0sh:RetainedDateTimePickers:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/RetainedDateTimePickers-1.0.1.aar/e3dad5035a2e438f488a2a30ee262d0e/AndroidManifest.xml:2:1-14:12
+MERGED from [dev.dworks.libs:volleyplus:0.1.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/volleyplus-0.1.2.aar/8ee2d547c6ef41f9f50ee4bf04866f46/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v13-25.1.0.aar/3f3ab0cb84fb06bf0209898b07caa0f1/AndroidManifest.xml:17:1-27:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/032e784f6c8f9fc6d4637c466469a570/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:design:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/design-25.0.1.aar/2f0c2228b29761fd0b8e4c82dc858f7f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/d818c66b79f20663e737f8944c468c0f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/746374e61bb1b5bf2f07d957f57c11e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/d664f2556f337f6ddaeeb8ca99862a23/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:transition:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/transition-25.0.1.aar/21cc24a04c664ec3fd0b86c0c91c42ed/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/d629848b161a02fab8b562256ad3c349/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9aa401aefe7b5090edbecfb6b57fcf10/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/a36c365d8a4f78a82adcd2a77c663dd8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/31592b6099ee7bd20e12407d3c4390a3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/2d4738a17990f73db1c40aadb96081bc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/929ebc3b8be8f23ffe917a23a7fb6121/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/268df62207d9df4683ba4c550a8aeca7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+	package
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:15-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:11:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:15:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:15:22-78
+uses-feature#0x00020000
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:17:5-19:35
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:23:5-25:33
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:18:9-41
+	android:required
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:19:9-32
+application
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:23:5-65:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.2.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/core-0.9.2.1.aar/22bab69a7d540f317de038f9da271a4e/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.2.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/core-0.9.2.1.aar/22bab69a7d540f317de038f9da271a4e/AndroidManifest.xml:13:5-20
+MERGED from [com.github.nguyenhoanglam:ProgressLayout:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/ProgressLayout-1.0.1.aar/d0a243385c699e24bb469db9b414f7d2/AndroidManifest.xml:11:5-16:43
+MERGED from [com.github.nguyenhoanglam:ProgressLayout:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/ProgressLayout-1.0.1.aar/d0a243385c699e24bb469db9b414f7d2/AndroidManifest.xml:11:5-16:43
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/33873bae896d539de2e058de5a75c4d4/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/33873bae896d539de2e058de5a75c4d4/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:28:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/5374d36f642ba455b1c2619067bc1dde/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/5374d36f642ba455b1c2619067bc1dde/AndroidManifest.xml:12:5-20
+MERGED from [com.github.joaquimley:faboptions:1.0.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/faboptions-1.0.2.aar/77252dbfeaca4735a85479f3ce06c8b5/AndroidManifest.xml:27:5-20
+MERGED from [com.github.joaquimley:faboptions:1.0.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/faboptions-1.0.2.aar/77252dbfeaca4735a85479f3ce06c8b5/AndroidManifest.xml:27:5-20
+MERGED from [com.github.k0shk0sh:RetainedDateTimePickers:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/RetainedDateTimePickers-1.0.1.aar/e3dad5035a2e438f488a2a30ee262d0e/AndroidManifest.xml:12:5-20
+MERGED from [com.github.k0shk0sh:RetainedDateTimePickers:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/RetainedDateTimePickers-1.0.1.aar/e3dad5035a2e438f488a2a30ee262d0e/AndroidManifest.xml:12:5-20
+MERGED from [dev.dworks.libs:volleyplus:0.1.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/volleyplus-0.1.2.aar/8ee2d547c6ef41f9f50ee4bf04866f46/AndroidManifest.xml:9:5-20
+MERGED from [dev.dworks.libs:volleyplus:0.1.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/volleyplus-0.1.2.aar/8ee2d547c6ef41f9f50ee4bf04866f46/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v13-25.1.0.aar/3f3ab0cb84fb06bf0209898b07caa0f1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v13-25.1.0.aar/3f3ab0cb84fb06bf0209898b07caa0f1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/design-25.0.1.aar/2f0c2228b29761fd0b8e4c82dc858f7f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/design-25.0.1.aar/2f0c2228b29761fd0b8e4c82dc858f7f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/d818c66b79f20663e737f8944c468c0f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/d818c66b79f20663e737f8944c468c0f/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/d664f2556f337f6ddaeeb8ca99862a23/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/d664f2556f337f6ddaeeb8ca99862a23/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:transition:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/transition-25.0.1.aar/21cc24a04c664ec3fd0b86c0c91c42ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/transition-25.0.1.aar/21cc24a04c664ec3fd0b86c0c91c42ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/d629848b161a02fab8b562256ad3c349/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/d629848b161a02fab8b562256ad3c349/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9aa401aefe7b5090edbecfb6b57fcf10/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9aa401aefe7b5090edbecfb6b57fcf10/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/a36c365d8a4f78a82adcd2a77c663dd8/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/a36c365d8a4f78a82adcd2a77c663dd8/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/31592b6099ee7bd20e12407d3c4390a3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/31592b6099ee7bd20e12407d3c4390a3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/2d4738a17990f73db1c40aadb96081bc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/2d4738a17990f73db1c40aadb96081bc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/929ebc3b8be8f23ffe917a23a7fb6121/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/929ebc3b8be8f23ffe917a23a7fb6121/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/268df62207d9df4683ba4c550a8aeca7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/268df62207d9df4683ba4c550a8aeca7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:24:9-41
+activity#app.com.soseau.activity.SplashScreenActivity
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:30:19-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:34:27-74
+activity#app.com.soseau.activity.MainActivity
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:38:13-50
+meta-data#com.google.android.gms.version
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:41:9-43:69
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/d664f2556f337f6ddaeeb8ca99862a23/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/d664f2556f337f6ddaeeb8ca99862a23/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:42:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:44:9-46:54
+	android:value
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:46:13-51
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:45:13-58
+meta-data#Utils.GlideConfiguration
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:47:9-49:43
+	android:value
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:49:13-40
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:48:13-52
+activity#app.com.soseau.activity.DetailIncidentActivity
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:51:9-69
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:51:19-66
+activity#app.com.soseau.activity.GalleryActivity
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:52:9-54:46
+	android:theme
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:53:13-53
+activity#app.com.soseau.activity.ReportActivity
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:55:9-57:50
+	android:theme
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:56:13-52
+activity#app.com.soseau.activity.PhotoViewerActivity
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:58:9-60:56
+	android:theme
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:59:13-57
+activity#app.com.soseau.activity.AuthentificationActivity
+ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:61:9-63:56
+	android:theme
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:62:13-62
+uses-sdk
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+MERGED from [com.afollestad.material-dialogs:core:0.9.2.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/core-0.9.2.1.aar/22bab69a7d540f317de038f9da271a4e/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.2.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/core-0.9.2.1.aar/22bab69a7d540f317de038f9da271a4e/AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/18d7f25783765cd3ca53a1d5f11d2282/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/18d7f25783765cd3ca53a1d5f11d2282/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/ab0115451ff546b8d821384525f07cf9/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/ab0115451ff546b8d821384525f07cf9/AndroidManifest.xml:5:5-43
+MERGED from [com.github.nguyenhoanglam:ProgressLayout:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/ProgressLayout-1.0.1.aar/d0a243385c699e24bb469db9b414f7d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.nguyenhoanglam:ProgressLayout:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/ProgressLayout-1.0.1.aar/d0a243385c699e24bb469db9b414f7d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/33873bae896d539de2e058de5a75c4d4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/33873bae896d539de2e058de5a75c4d4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/98db8080eac65dd237fe91425bc1fa7c/AndroidManifest.xml:27:5-42
+MERGED from [com.github.clans:fab:1.6.4] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/5374d36f642ba455b1c2619067bc1dde/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/5374d36f642ba455b1c2619067bc1dde/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.joaquimley:faboptions:1.0.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/faboptions-1.0.2.aar/77252dbfeaca4735a85479f3ce06c8b5/AndroidManifest.xml:23:5-25:41
+MERGED from [com.github.joaquimley:faboptions:1.0.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/faboptions-1.0.2.aar/77252dbfeaca4735a85479f3ce06c8b5/AndroidManifest.xml:23:5-25:41
+MERGED from [com.github.chrisbanes:PhotoView:1.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/PhotoView-1.3.0.aar/70ced31d400bc14e34186a47e7bca484/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:1.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/PhotoView-1.3.0.aar/70ced31d400bc14e34186a47e7bca484/AndroidManifest.xml:8:5-10:41
+MERGED from [com.heinrichreimersoftware:material-intro:1.6] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.aar/4936bafd0adb53dddb75d04e0ac21fe4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.heinrichreimersoftware:material-intro:1.6] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.aar/4936bafd0adb53dddb75d04e0ac21fe4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.k0shk0sh:RetainedDateTimePickers:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/RetainedDateTimePickers-1.0.1.aar/e3dad5035a2e438f488a2a30ee262d0e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.k0shk0sh:RetainedDateTimePickers:1.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/RetainedDateTimePickers-1.0.1.aar/e3dad5035a2e438f488a2a30ee262d0e/AndroidManifest.xml:8:5-10:41
+MERGED from [dev.dworks.libs:volleyplus:0.1.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/volleyplus-0.1.2.aar/8ee2d547c6ef41f9f50ee4bf04866f46/AndroidManifest.xml:7:5-43
+MERGED from [dev.dworks.libs:volleyplus:0.1.2] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/volleyplus-0.1.2.aar/8ee2d547c6ef41f9f50ee4bf04866f46/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v13:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v13-25.1.0.aar/3f3ab0cb84fb06bf0209898b07caa0f1/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v13-25.1.0.aar/3f3ab0cb84fb06bf0209898b07caa0f1/AndroidManifest.xml:21:5-23:55
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/032e784f6c8f9fc6d4637c466469a570/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/032e784f6c8f9fc6d4637c466469a570/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:design:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/design-25.0.1.aar/2f0c2228b29761fd0b8e4c82dc858f7f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/design-25.0.1.aar/2f0c2228b29761fd0b8e4c82dc858f7f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/d818c66b79f20663e737f8944c468c0f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/d818c66b79f20663e737f8944c468c0f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/746374e61bb1b5bf2f07d957f57c11e9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/746374e61bb1b5bf2f07d957f57c11e9/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/d664f2556f337f6ddaeeb8ca99862a23/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/d664f2556f337f6ddaeeb8ca99862a23/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:transition:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/transition-25.0.1.aar/21cc24a04c664ec3fd0b86c0c91c42ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/transition-25.0.1.aar/21cc24a04c664ec3fd0b86c0c91c42ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/d629848b161a02fab8b562256ad3c349/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/d629848b161a02fab8b562256ad3c349/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9aa401aefe7b5090edbecfb6b57fcf10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9aa401aefe7b5090edbecfb6b57fcf10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/a36c365d8a4f78a82adcd2a77c663dd8/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/a36c365d8a4f78a82adcd2a77c663dd8/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/31592b6099ee7bd20e12407d3c4390a3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/31592b6099ee7bd20e12407d3c4390a3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/2d4738a17990f73db1c40aadb96081bc/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/2d4738a17990f73db1c40aadb96081bc/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/929ebc3b8be8f23ffe917a23a7fb6121/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/929ebc3b8be8f23ffe917a23a7fb6121/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/268df62207d9df4683ba4c550a8aeca7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/268df62207d9df4683ba4c550a8aeca7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.2.1] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/core-0.9.2.1.aar/22bab69a7d540f317de038f9da271a4e/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+		ADDED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/assadi85/Downloads/Soseau/app/src/main/AndroidManifest.xml:2:5-68:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-compat:25.3.0] /Users/assadi85/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/45387f10a1a215049151bc6e4ea45372/AndroidManifest.xml:26:9-47

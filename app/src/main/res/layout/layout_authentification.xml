@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_estore_account_auth"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        style="@style/SephDefaultSeparatorWithoutBackgroundBlockStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/account_authentification_have_account_tv"
+            style="@style/SephTitleTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/account_login_already_an_account_question" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <views.ClearableEditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_default"
+                android:focusable="true"
+                android:hint="@string/account_login_email_placeholder"
+                android:inputType="textEmailAddress"
+                android:paddingLeft="15dp"
+                android:textSize="6pt" />
+
+            <views.ClearableEditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_default_no_stroke"
+                android:hint="@string/account_login_password_placeholder"
+                android:inputType="textPassword"
+                android:paddingLeft="15dp"
+                android:textSize="6pt" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/estore_account_authentification_forgotten_password_btn"
+            style="@style/SephSmallLinkButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/account_login_forgot_password" />
+
+        <Button
+            android:id="@+id/authentification_btn"
+            style="@style/SephValidateButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/account_login_identify" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/estore_account_authentification_create_account_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:text="@string/account_login_dont_have_account_question"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="6pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/estore_account_authentification_have_card_tv"
+            style="@style/SephTitleTextViewWithoutCapsAndBoldStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <Button
+            android:visibility="gone"
+            android:id="@+id/estore_account_authentification_have_card_btn"
+            style="@style/SephCreateButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/account_login_continue" />
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/estore_account_authentification_doesnt_have_card_tv"
+            style="@style/SephTitleTextViewWithoutCapsAndBoldStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="15dp" />
+
+        <Button
+            android:visibility="gone"
+            android:id="@+id/estore_account_authentification_doesnt_have_card_btn"
+            style="@style/SephCreateButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/account_login_continue" />
+
+    </LinearLayout>
+
+</LinearLayout>
+

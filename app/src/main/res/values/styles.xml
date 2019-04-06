@@ -1,0 +1,159 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextAppearence.App.TextInputLayout" parent="@android:style/TextAppearance">
+    <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TextLabel" parent="TextAppearance.AppCompat">
+
+        <!-- Hint color and label color in FALSE state -->
+        <item name="android:textColorHint">#fff</item>
+        <item name="android:textSize">20sp</item>
+
+        <!-- Label color in TRUE state and bar color FALSE and TRUE State -->
+
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="colorControlNormal">@android:color/white</item>
+        <item name="colorControlActivated">@android:color/white</item>
+    </style>
+    <style name="ActionBarStyle" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="elevation">0dp</item>
+    </style>
+
+    <style name="MenuLabelsStyle">
+        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="MenuButtonsStyle">
+        <item name="fab_size">mini</item>
+        <item name="fab_showAnimation">@anim/jump_from_down</item>
+        <item name="fab_hideAnimation">@anim/jump_to_down</item>
+        <item name="fab_shadowColor">#444</item>
+        <item name="fab_colorNormal">@color/colorGreen</item>
+        <item name="fab_colorPressed">@color/colorGreen</item>
+        <item name="fab_colorRipple">@color/colorGreen</item>
+    </style>
+
+    <style name="MenuButtonsSmall">
+        <item name="fab_size">mini</item>
+        <item name="fab_colorNormal">#1565C0</item>
+        <item name="fab_colorPressed">#2272CD</item>
+        <item name="fab_colorRipple">#62B2FF</item>
+    </style>
+
+    <style name="MenuButtonsSmall.Green">
+        <item name="fab_colorNormal">#43A047</item>
+        <item name="fab_colorPressed">#2E7D32</item>
+        <item name="fab_colorRipple">#1B5E20</item>
+    </style>
+
+    <style name="TextTitleStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTitleBulle</item>
+    </style>
+
+    <style name="SimpleTextStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorGreyLight</item>
+    </style>
+
+    <style name="largeTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorBlackLight</item>
+    </style>
+
+    <style name="PickersTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/PurplePrimary</item>
+        <item name="colorPrimaryDark">@color/PurplePrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="MyCheckBox" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@android:color/white</item>
+        <item name="colorControlActivated">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="dialog_blue_button" parent="android:Widget.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:background">@drawable/blue_button_background</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingLeft">21dp</item>
+        <item name="android:paddingRight">21dp</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style>
+
+    <style name="SephCreateButtonStyle">
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/auth_btn</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SephTitleTextViewWithoutCapsAndBoldStyle">
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">6pt</item>
+    </style>
+    <style name="SephRedButtonStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/shape_red_button</item>
+        <item name="android:focusable">false</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- "Validate" button -->
+    <style name="SephValidateButtonStyle" parent="SephRedButtonStyle">
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="SephSmallLinkButtonStyle">
+        <item name="android:gravity">center|end</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="SephTitleTextViewStyle">
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">6pt</item>
+    </style>
+    <style name="SephDefaultSeparatorWithoutBackgroundBlockStyle">
+        <item name="android:background">@drawable/shape_gray_free</item>
+    </style>
+</resources>

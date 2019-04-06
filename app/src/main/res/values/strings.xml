@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SOS EAU</string>
+    <!--<string name="google_api_key">AIzaSyAKTF1mysPJYpax0p4xSyxb86G0urIlcEs</string>-->
+    <string name="google_api_key">AIzaSyBWV9HqpbMPp1NUGBUtLIqmrWIONh8AeWE</string>
+    <string name="google_geo_api_key">AIzaSyD4g9cNIM9D6Vcpokox6nkHIkUvR5OHsMQ</string>
+    <string name="menu_send_sms">Envoyer SMS</string>
+    <string name="menu_send_email">Envoyer Email</string>
+    <string name="menu_call">Appeler</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="categories_ids">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>12</item>
+        <item>15</item>
+        <item>13</item>
+        <item>18</item>
+    </string-array>
+    <string name="toutescategories">Toutes catégories</string>
+    <string name="coupureeau">Coupure \'eau</string>
+    <string name="pas_access_habitant">Pas d\'accès eau</string>
+    <string name="pollution_eau">Pollution d\'eau</string>
+    <string name="corruption">Corruption</string>
+    <string name="potabilite_eau">Potabilité de l\'eau</string>
+    <string name="distribution_non_equitable">Distribution non équitable</string>
+    <string name="assainissement">Assainissement</string>
+    <string name="surexploiatation">Surexploiatation</string>
+    <string name="fuite_eau">Fuite d\'eau</string>
+    <string name="mouvement_protestation">Mouvement de protestation</string>
+
+    <string name="tel_contact_chajra">+21653544074</string>
+    <string name="ajouterphoto">Ajouter image</string>
+    <string name="erreuraddphoto">photo existe déjà</string>
+    <string name="title_activity_photo_viewer">PhotoViewerActivity</string>
+    <string name="msg_erreur_gps">Veuillez entrer le nom du l\'emplacement</string>
+    <string name="msg_invalid_email">Votre adresse email est invalide</string>
+    <string name="account_login_dont_have_account_question">Vous n\'avez pas encore de compte ?</string>
+    <string name="account_login_identify">S\'IDENTIFIER</string>
+    <string name="account_login_forgot_password">Mot de passe oublié ?</string>
+    <string name="account_login_password_placeholder">Mot de passe</string>
+    <string name="account_login_email_placeholder">Email</string>
+    <string name="account_login_already_an_account_question">Vous avez déjà un compte ?</string>
+    <string name="account_login_continue">CONTINUER</string>
+
+
+</resources>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="false"
+    android:orientation="vertical"
+    android:padding="@dimen/mi_baseline">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout"
+        android:theme="@style/TextLabel"
+        >
+
+        <EditText
+            android:id="@+id/mTextViewTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLines="1"
+            android:hint="Problème *" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout"
+        android:theme="@style/TextLabel"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/mTextViewDescription"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Description *"
+            android:maxLines="10" />
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout"
+        android:theme="@style/TextLabel"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/mTextViewDate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawableRight="@drawable/ic_date_range_black_48px__1_"
+            android:hint="Date"
+            android:textColor="@android:color/white" />
+    </android.support.design.widget.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Type de Problème *"
+        android:textColor="@color/colorRedDark"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="Sélectionner autant de catégories pertinentes que nécessaire."
+        android:textSize="12sp" />
+
+    <RadioGroup
+        android:id="@+id/mRadioGroupTypePb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp">
+    <RadioButton
+        android:id="@+id/mCheckBoxCoupureEau"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coupure d'eau"
+        android:textColor="@color/white"
+        android:tag="1"
+        android:theme="@style/MyCheckBox" />
+
+    <RadioButton
+        android:id="@+id/mCheckBoxPasAccesEau"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pas d'accès eau"
+        android:tag="4"
+        android:textColor="@color/white"
+        android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxPollutionEau"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pollution d'eau"
+            android:tag="6"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxCorruption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Corruption"
+            android:tag="7"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxPotabiliteDeEeau"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Potabilité de l'eau"
+            android:tag="8"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxDistributionNonEquitable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distribution non équitable"
+            android:tag="9"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+        <RadioButton
+            android:id="@+id/mCheckBoxAssainissement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Assainissement"
+            android:tag="12"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+        <RadioButton
+            android:id="@+id/mCheckBoxSurexploiatation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Surexploiatation"
+            android:tag="15"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+        <RadioButton
+            android:id="@+id/mCheckBoxFuite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fuite"
+            android:tag="13"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxAutres"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Autres"
+            android:tag="14"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxSourceEau"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Source d'eau"
+            android:tag="16"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxFuiteDistribution"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Des fuites d’eau dans le réseau de distribution"
+            android:tag="17"
+            android:textColor="@color/white"
+            android:theme="@style/MyCheckBox" />
+
+        <RadioButton
+            android:id="@+id/mCheckBoxMouvementDeProtestation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mouvement de protestation"
+            android:textColor="@color/white"
+            android:tag="18"
+            android:theme="@style/MyCheckBox" />
+    </RadioGroup>
+
+</LinearLayout>
+</ScrollView>

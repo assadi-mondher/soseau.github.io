@@ -1,0 +1,4 @@
+#Sun Mar 31 16:39:08 CEST 2019
+base.0=/Users/assadi85/Downloads/Soseau/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

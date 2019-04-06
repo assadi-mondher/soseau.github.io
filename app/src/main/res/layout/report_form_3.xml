@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="false"
+    android:orientation="vertical"
+    android:padding="@dimen/mi_baseline">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout"
+            android:theme="@style/TextLabel"
+            android:layout_marginRight="50dp"
+            >
+        <EditText
+            android:id="@+id/mTextViewLocalite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Localité geographique"
+            android:inputType="text"
+            android:maxLines="1"
+            android:textColor="@android:color/white" />
+        </android.support.design.widget.TextInputLayout>
+
+        <ImageButton
+            android:id="@+id/mImageButtonLocalite"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:background="@color/colorRed"
+            android:src="@drawable/ic_location_searching_black_48px"
+            android:layout_alignParentRight="true"
+            />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/info_sup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Rechercher l’emplacement en utilisant un nom de lieu ou l'adresse"
+        android:textSize="12sp" />
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout"
+        android:theme="@style/TextLabel"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/mTextViewPresseLink"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Lien de sources de presse"
+            android:inputType="text"
+            android:maxLines="1"
+            />
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout"
+        android:theme="@style/TextLabel"
+        android:layout_marginTop="20dp">
+
+        <EditText
+            android:id="@+id/mTextViewVideoLink"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Lien vidéo externe"
+            android:inputType="text"
+            android:maxLines="1" />
+    </android.support.design.widget.TextInputLayout>
+
+
+</LinearLayout>
+    </ScrollView>

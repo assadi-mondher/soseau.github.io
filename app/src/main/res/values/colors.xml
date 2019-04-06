@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#337AB7</color>
+    <color name="colorPrimaryDark">#428BCA</color>
+    <color name="colorAccent">#337AB7</color>
+    <color name="colorRed">#d9534f</color>
+    <color name="colorGreen">#428BCA</color>
+    <color name="colorYellow">#f0ad4e</color>
+    <color name="colorBlue">#5bc0de</color>
+    <color name="colorTitleBulle">#3764aa</color>
+    <color name="colorGreyBg">#C8C8C8</color>
+    <color name="colorGreyLight">#7E7E7E</color>
+    <color name="colorBlackLight">#202020</color>
+    <color name="colorBlueDark">#155080</color>
+
+    <color name="color_deboisement">#9900CC</color>
+    <color name="color_surpaturage">#082e0c</color>
+    <color name="color_reboisement">#339900</color>
+    <color name="color_defrichements">#0a080a</color>
+    <color name="color_foret_brules">#e01929</color>
+    <color name="colorRedDark">#D52531</color>
+
+    <string name="cat_all">Toutes les catégories</string>
+    <string name="cat_deboisement">déboisement</string>
+    <string name="cat_surpaturage">Surpâturage</string>
+    <string name="cat_reboisement">Reboisement</string>
+    <string name="cat_defrichements">Défrichements</string>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <string name="cat_foret_brules">Foret brulés</string>
+
+    <color name="color_material_metaphor">#428BCA</color>
+    <color name="color_material_bold">#EC407A</color>
+    <color name="color_material_motion">#6A1B9A</color>
+    <color name="color_material_shadow">#E0E0E0</color>
+    <color name="color_permissions">#FFEB3B</color>
+    <color name="color_custom_fragment_1">#E64A19</color>
+    <color name="color_custom_fragment_2">#3F51B5</color>
+    <color name="color_canteen">#fdfdfd</color>
+
+    <color name="color_dark_material_metaphor">#428BCA</color>
+    <color name="color_dark_material_bold">#D81B60</color>
+    <color name="color_dark_material_motion">#4A148C</color>
+    <color name="color_dark_material_shadow">#BDBDBD</color>
+    <color name="color_dark_permissions">#FBC02D</color>
+    <color name="color_dark_custom_fragment_1">#BF360C</color>
+    <color name="color_dark_custom_fragment_2">#303F9F</color>
+    <color name="color_dark_canteen">#ebeef0</color>
+    <color name="PurplePrimary">#9C27B0</color>
+    <color name="PurplePrimary_dark">#7B1FA2</color>
+    <color name="PurpleAccent">#7C4DFF</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="float_transparent">#00000000</color>
+
+    <color name="toutescategories">#000000</color>
+    <color name="coupureeau">#9900CC</color>
+    <color name="pas_access_habitant">#339900</color>
+    <color name="pollution_eau">#e01929</color>
+    <color name="corruption">#b827b8</color>
+    <color name="potabilite_eau">#1c1a1c</color>
+    <color name="distribution_non_equitable">#8f7b2c</color>
+    <color name="assainissement">#0a090a</color>
+    <color name="surexploiatation">#000000</color>
+    <color name="fuite_eau">#944994</color>
+    <color name="autres_categories">#47a63a</color>
+    <color name="source_eau">#156de8</color>
+    <color name="fuite_distribution">#000000</color>
+    <color name="mouvement_protestation">#000000</color>
+    <color name="auth_btn">#CD0426</color>
+    <color name="gray">#FF5D5B5C</color>
+    <color name="graymat">#ffC6C6C8</color>
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.k0shk0sh:RetainedDateTimePickers:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RetainedDateTimePickers-1.0.1.aar/e3dad5035a2e438f488a2a30ee262d0e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RetainedDateTimePickers-1.0.1.aar/e3dad5035a2e438f488a2a30ee262d0e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.k0shk0sh/RetainedDateTimePickers/1.0.1/7400c54297d241c5a390667597ff69c1bb43e3a4/RetainedDateTimePickers-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
